@@ -1,6 +1,5 @@
 import { Nav,
   NavLink,
-  Bars,
   NavMenu,
   Logo,
   NavDropdown,
